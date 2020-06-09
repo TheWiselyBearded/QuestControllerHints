@@ -1,13 +1,17 @@
 # QuestControllerHints
 An example project with button highlighting. Developer can activate hints on button input or run the user through each button in 'tutorial mode'.
 
-###### *Using Unity 2019.3 and XR Interaction Toolkit*
+## *Using Unity 2019.3 and XR Interaction Toolkit*
 
 ---
 
 ## Features:
-![Features](https://i.imgur.com/nBFga9g.gifv)
-![Features](https://i.imgur.com/SaJavJx.gif)
+<!-- ![AllControls](https://i.imgur.com/k8ZTnvN.gif) -->
+<!-- ![Features](https://i.imgur.com/SaJavJx.gif) -->
+<img src="https://i.imgur.com/k8ZTnvN.gif" width="300" height="300"/>
+<img src="https://i.imgur.com/SaJavJx.gif" width="500" height="300"/>
+</br>
+---
 * Tutorial mode to run user through controls.
 * Button Highlighting
 ---
@@ -17,11 +21,11 @@ An example project with button highlighting. Developer can activate hints on but
 ### *WHEN IMPORTING PACKAGE, MAKE SURE Android BUILD PLATFORM IS SET.*
 
 ## Adding Hints/Tips to Quest Controller:
-![Inspector](https://imgur.com/ZEzzep0.jpg)
+![Inspector](https://i.imgur.com/lWMR7J0.png)
 ![Code](https://i.imgur.com/LPwuV9a.png)
 
 As a developer, simply add **ButtonController** scripts to specify different button configurations. 
-* To configure hints, create your own script or use the **TutorialExample** in the inspector to specify the controls/ 
+* To configure hints, create your own script or use the **TutorialExample** in the inspector to specify the controls.
 
 * The **HintManager** is responsible for activating hint instances and calculating the state of the tutorial based on the ordered list provided by the user.
 * The **TutorialExample** script shows how we can setup an inspector component to allow us to coordinate a sequence of tips. If we want to activate tutorial mode, simply toggle the checkbox.
