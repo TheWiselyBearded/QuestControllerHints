@@ -22,7 +22,7 @@ An example project with button highlighting. Developer can activate hints on but
 ### *WHEN IMPORTING PACKAGE, MAKE SURE Android BUILD PLATFORM IS SET.*
 
 ## Adding Hints/Tips to Quest Controller:
-![Inspector](https://i.imgur.com/lWMR7J0.png)
+![Inspector](https://i.imgur.com/vZoDm2C.png)
 ![Code](https://i.imgur.com/LPwuV9a.png)
 
 As a developer, simply add **ButtonController** scripts to specify different button configurations. 
