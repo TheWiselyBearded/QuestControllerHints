@@ -52,6 +52,9 @@ The script is documented and provides the developer with extensibility. Simply d
 **Dylan Kerr**
 * [Website/Dylan Kerr](https://www.djkerrdesign.com/)
 
+**Meteor Studio**
+* [Affiliated Research Lab/Meteor Studio](https://meteor.ame.asu.edu/)
+
 ### License
 
 Copyright © 2020, [Alireza Bahremand](https://github.com/TheWiselyBearded).
