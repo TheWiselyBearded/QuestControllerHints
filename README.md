@@ -6,7 +6,7 @@ An example project with button highlighting. Developer can activate hints on but
 ---
 
 ## Features:
-![Features](https://i.imgur.com/k8ZTnvN.gif)
+![Features](https://i.imgur.com/nBFga9g.gifv)
 ![Features](https://i.imgur.com/SaJavJx.gif)
 * Tutorial mode to run user through controls.
 * Button Highlighting
