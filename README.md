@@ -8,9 +8,10 @@ An example project with button highlighting. Developer can activate hints on but
 ## Features:
 <!-- ![AllControls](https://i.imgur.com/k8ZTnvN.gif) -->
 <!-- ![Features](https://i.imgur.com/SaJavJx.gif) -->
-<img src="https://i.imgur.com/nBFga9g.gif" width="300" height="300"/>
-<img src="https://i.imgur.com/SaJavJx.gif" width="500" height="300"/>
+<img src="https://i.imgur.com/nBFga9g.gif" width="300" height="250"/>
+<img src="https://i.imgur.com/SaJavJx.gif" width="400" height="250"/>
 </br>
+
 ---
 * Tutorial mode to run user through controls.
 * Button Highlighting
